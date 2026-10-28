@@ -1,0 +1,8 @@
+{
+  "name": "nahad-notes",
+  "version": "1.0.0",
+  "description": "NAHAD NOTES - multi-user notes app, SQLite database, no npm dependencies",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" }
+}
